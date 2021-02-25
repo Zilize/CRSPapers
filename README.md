@@ -25,16 +25,16 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 > A quick-start paper list including survey, tutorial, toolkit and model papers.
 
-1. "Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems". arXiv(2020) [[PDF]](https://arxiv.org/pdf/2004.13245.pdf)
-2. "Tutorial on Conversational Recommendation Systems". RecSys(2020) [[PDF]](http://yongfeng.me/attach/fu-recsys2020.pdf) [[Homepage]](https://conversational-recsys.github.io/)
-3. **CRSLab**: "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System". arXiv(2021) [[PDF]](https://arxiv.org/pdf/2101.00939.pdf) [[Homepage]](https://github.com/RUCAIBox/CRSLab)
-4. **CRM**: "Conversational Recommender System". SIGIR(2018) [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
-5. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". CIKM(2018) [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Dataset]](http://yongfeng.me/attach/conversation.zip)
-6. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". WSDM(2020) [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
-7. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". KDD(2020) [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
-8. **ReDial**: "Towards Deep Conversational Recommendations". NeurIPS(2018) [[PDF]](https://arxiv.org/pdf/1812.07617) [[Dataset]](https://redialdata.github.io/website/) [[Code]](https://github.com/RaymondLi0/conversational-recommendations)
-9. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". EMNLP-IJCNLP(2019) [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
-10. **KGSF**: "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion". KDD(2020) [[PDF]](https://arxiv.org/pdf/2007.04032) [[Code]](https://github.com/Lancelot39/KGSF)
+1. "Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2004.13245.pdf)
+2. "Tutorial on Conversational Recommendation Systems". `RecSys(2020)` [[PDF]](http://yongfeng.me/attach/fu-recsys2020.pdf) [[Homepage]](https://conversational-recsys.github.io/)
+3. **CRSLab**: "CRSLab: An Open-Source Toolkit for Building Conversational Recommender System". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2101.00939.pdf) [[Homepage]](https://github.com/RUCAIBox/CRSLab)
+4. **CRM**: "Conversational Recommender System". `SIGIR(2018)` [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
+5. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". `CIKM(2018)` [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Dataset]](http://yongfeng.me/attach/conversation.zip)
+6. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". `WSDM(2020)` [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
+7. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
+8. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Dataset]](https://redialdata.github.io/website/) [[Code]](https://github.com/RaymondLi0/conversational-recommendations)
+9. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". `EMNLP-IJCNLP(2019)` [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
+10. **KGSF**: "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.04032) [[Code]](https://github.com/Lancelot39/KGSF)
 
 
 
