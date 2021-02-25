@@ -23,7 +23,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 ## Quick-Start
 
-A quick-start paper list including survey, tutorial, toolkit and model papers.
+> A quick-start paper list including survey, tutorial, toolkit and model papers.
 
 1. "Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems". arXiv(2020) [[PDF]](https://arxiv.org/pdf/2004.13245.pdf)
 2. "Tutorial on Conversational Recommendation Systems". RecSys(2020) [[PDF]](http://yongfeng.me/attach/fu-recsys2020.pdf) [[Homepage]](https://conversational-recsys.github.io/)
@@ -61,14 +61,14 @@ A quick-start paper list including survey, tutorial, toolkit and model papers.
 
 ### Dataset
 
-The following datasets are used for template-based CRS.
+> The following datasets are used for template-based CRS.
 
 1. **CRM**: "Conversational Recommender System". SIGIR(2018) [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
 2. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". CIKM(2018) [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Download]](http://yongfeng.me/attach/conversation.zip)
 3. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". WSDM(2020) [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
 4. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". KDD(2020) [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
 
-The following datasets are used for end-to-end CRS.
+> The following datasets are used for end-to-end CRS.
 
 1. **ReDial**: "Towards Deep Conversational Recommendations". NeurIPS(2018) [[PDF]](https://arxiv.org/pdf/1812.07617) [[Homepage]](https://redialdata.github.io/website/)
 2. **OpenDialKG**: "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs". ACL(2019) [[PDF]](https://www.aclweb.org/anthology/P19-1081.pdf) [[Homepage]](https://github.com/facebookresearch/opendialkg)
