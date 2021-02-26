@@ -109,7 +109,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 21. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `COLING(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 22. **KGConvRec**: "Suggest me a movie for tonight: Leveraging Knowledge Graphs for Conversational Recommendation". `COLING(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.coling-main.369.pdf) [[Code]](https://github.com/rajbsk/KG-conv-rec)
 23. **TCR**: "Topic-Guided Conversational Recommender in Multi-Domain". `TKDE(2020)` [[Link]](https://ieeexplore.ieee.org/abstract/document/9138776/) [[Code]](https://github.com/lizi-git/TCR)
-24. **CRSAL**: "CRSAL: Conver- sational Recommender Systems with Adversarial Learning". `TOIS(2020)` [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/665725/TOIS.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/XuhuiRen/CRSAL)
+24. **CRSAL**: "CRSAL: Conversational Recommender Systems with Adversarial Learning". `TOIS(2020)` [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/665725/TOIS.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/XuhuiRen/CRSAL)
 25. **CR-Walker**: "Bridging the Gap between Conversational Reasoning and Interactive Recommendation". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2010.10333.pdf) [[Code]](https://github.com/truthless11/CR-Walker)
 26. **Qrec**: "Towards Question-Based Recommender Systems". `SIGIR(2020)` [[PDF]](https://arxiv.org/pdf/2005.14255.pdf) [[Code]](https://github.com/JieZouIR/Qrec)
 27. **IAI MovieBot**: "IAI MovieBot: A Conversational Movie Recommender System". `CIKM(2020)` [[PDF]](https://arxiv.org/pdf/2009.03668.pdf) [[Code]](https://github.com/iai-group/moviebot)
