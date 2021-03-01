@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-51-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-50-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -97,7 +97,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 9. **DialKG Walker**: "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs". `ACL(2019)` [[PDF]](https://www.aclweb.org/anthology/P19-1081.pdf) [[Code]](https://github.com/madcpt/OpenDialKG) [[Dataset: OpenDialKG]](https://github.com/facebookresearch/opendialkg)
 10. "Dialogue based recommender system that flexibly mixes utterances and recommendations". `WI(2019)` [[Link]](https://ieeexplore.ieee.org/abstract/document/8909617)
 11. "A Model of Social Explanations for a Conversational Movie Recommendation System". `HAI(2019)` [[PDF]](https://eprints.gla.ac.uk/193937/7/193937.pdf)
-12. **DCR**: "Deep Conversational Recommender in Travel". `arXiv(2019)` [[PDF]](https://arxiv.org/pdf/1907.00710.pdf) [[Code]](https://github.com/truthless11/DCR)
+12. **DCR**: "Deep Conversational Recommender in Travel". `TKDE(2020)` [[PDF]](https://arxiv.org/pdf/1907.00710.pdf) [[Code]](https://github.com/truthless11/DCR)
 13. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". `WSDM(2020)` [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
 14. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
 15. **KGSF**: "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.04032) [[Code]](https://github.com/Lancelot39/KGSF)
@@ -108,7 +108,6 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 20. **TG-ReDial**: "Towards Topic-Guided Conversational Recommender System". `COLING(2020)` [[PDF]](https://arxiv.org/pdf/2010.04125) [[Homepage]](https://github.com/RUCAIBox/TG-ReDial)
 21. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `COLING(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 22. **KGConvRec**: "Suggest me a movie for tonight: Leveraging Knowledge Graphs for Conversational Recommendation". `COLING(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.coling-main.369.pdf) [[Code]](https://github.com/rajbsk/KG-conv-rec)
-23. **TCR**: "Topic-Guided Conversational Recommender in Multi-Domain". `TKDE(2020)` [[Link]](https://ieeexplore.ieee.org/abstract/document/9138776/) [[Code]](https://github.com/lizi-git/TCR)
 24. **CRSAL**: "CRSAL: Conversational Recommender Systems with Adversarial Learning". `TOIS(2020)` [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/665725/TOIS.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/XuhuiRen/CRSAL)
 25. **CR-Walker**: "Bridging the Gap between Conversational Reasoning and Interactive Recommendation". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2010.10333.pdf) [[Code]](https://github.com/truthless11/CR-Walker)
 26. **Qrec**: "Towards Question-Based Recommender Systems". `SIGIR(2020)` [[PDF]](https://arxiv.org/pdf/2005.14255.pdf) [[Code]](https://github.com/JieZouIR/Qrec)
