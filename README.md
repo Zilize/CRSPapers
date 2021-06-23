@@ -17,7 +17,6 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
   - [Dataset](#Dataset)
 - [Model](#Model)
 - [Other](#Other)
-
 - [Thesis](#Thesis)
 
 
