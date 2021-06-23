@@ -16,6 +16,9 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
   - [Toolkit](#Toolkit)
   - [Dataset](#Dataset)
 - [Model](#Model)
+  - [Attribute-based](#Attribute-based)
+  - [Generation-based](#Generation-based)
+  - [Others](#Others)
 - [Other](#Other)
 - [Thesis](#Thesis)
 
@@ -90,6 +93,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 ### Attribute-based
 
+> Attribute-based CRSs typically capture user preferences by asking queries about item attributes and generates responses using pre-defined templates.
+
 1. "Towards Conversational Recommender Systems". `KDD(2016)` [[PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/rfp0063-christakopoulou.pdf)
 2. **CRM**: "Conversational Recommender System". `SIGIR(2018)` [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
 3. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". `CIKM(2018)` [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Dataset]](http://yongfeng.me/attach/conversation.zip)
@@ -107,6 +112,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 14. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
 
 ### Generation-based
+
+> Compared to attribute-based CRSs, generation-based CRSs pay more attention to generate human-like responses in natural language.
 
 1. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Code]](https://github.com/RaymondLi0/conversational-recommendations) [[Dataset]](https://redialdata.github.io/website/)
 2. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". `EMNLP-IJCNLP(2019)` [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
@@ -126,7 +133,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
 
-### Other
+### Others
 
 1. **Converse-Et-Impera**: "Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems". `AI*IA(2017)` [[PDF]](https://www.researchgate.net/profile/Alessandro-Suglia/publication/320875588_Converse-Et-Impera_Exploiting_Deep_Learning_and_Hierarchical_Reinforcement_Learning_for_Conversational_Recommender_Systems/links/5bf6ad1592851c6b27d27324/Converse-Et-Impera-Exploiting-Deep-Learning-and-Hierarchical-Reinforcement-Learning-for-Conversational-Recommender-Systems.pdf)
 2. "A Model of Social Explanations for a Conversational Movie Recommendation System". `HAI(2019)` [[PDF]](https://eprints.gla.ac.uk/193937/7/193937.pdf)
