@@ -17,6 +17,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
   - [Dataset](#Dataset)
 - [Model](#Model)
 - [Other](#Other)
+
 - [Thesis](#Thesis)
 
 
@@ -34,6 +35,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 7. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
 8. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Dataset]](https://redialdata.github.io/website/) [[Code]](https://github.com/RaymondLi0/conversational-recommendations)
 9. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". `EMNLP-IJCNLP(2019)` [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
+
 10. **KGSF**: "Improving Conversational Recommender Systems via Knowledge Graph based Semantic Fusion". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.04032) [[Code]](https://github.com/Lancelot39/KGSF)
 
 
@@ -44,6 +46,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 1. "Deep Conversational Recommender Systems: A New Frontier for Goal-Oriented Dialogue Systems". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2004.13245.pdf)
 2. "A survey on conversational recommender systems". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2004.00646.pdf)
+
 3. "Advances and Challenges in Conversational Recommender Systems: A Survey". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2101.09459.pdf)
 
 ### Tutorial
@@ -52,6 +55,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
    - `RecSys(2020)` [[PDF]](http://yongfeng.me/attach/fu-recsys2020.pdf)
    - `WSDM(2021)` [[PDF]](http://yongfeng.me/attach/fu-wsdm2021.pdf)
    - `IUI(2021)` [[PDF]](http://yongfeng.me/attach/fu-iui2021.pdf)
+
 2. "Conversational Recommendation: Formulation, Methods, and Evaluation". `SIGIR(2020)` [[PDF]](http://staff.ustc.edu.cn/~hexn/papers/sigir20-tutorial.pdf) [[Slides]](http://staff.ustc.edu.cn/~hexn/slides/sigir20-tutorial-CRS-slides.pdf)
 
 
@@ -68,7 +72,6 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 2. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". `CIKM(2018)` [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Download]](http://yongfeng.me/attach/conversation.zip)
 3. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". `WSDM(2020)` [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
 4. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
-
 5. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Homepage]](https://redialdata.github.io/website/)
 6. **OpenDialKG**: "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs". `ACL(2019)` [[PDF]](https://www.aclweb.org/anthology/P19-1081.pdf) [[Homepage]](https://github.com/facebookresearch/opendialkg)
 7. **PersuasionForGood**: "Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good". `ACL(2019)` [[PDF]](https://arxiv.org/pdf/1906.06725.pdf) [[Homepage]](https://gitlab.com/ucdavisnlp/persuasionforgood)
@@ -79,6 +82,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 12. **INSPIRED**: "INSPIRED: Toward Sociable Recommendation Dialogue Systems". `EMNLP(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.emnlp-main.654.pdf) [[Homepage]](https://github.com/sweetpeach/Inspired)
 13. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `ACL(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 14. **COOKIE**: "COOKIE: A Dataset for Conversational Recommendation over Knowledge Graphs in E-commerce". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2008.09237) [[Homepage]](https://github.com/zuohuif/COOKIE)
+
 15. **IARD**: "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Homepage]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
 
 
@@ -123,6 +127,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 36. **KBQG**: "Learning to Ask Appropriate Questions in Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.04774.pdf) [[Code]](https://github.com/XuhuiRen/KBQG)
 37. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
 38. "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)
+
 39. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
 
 
@@ -139,6 +144,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 8. "A Comparison of Explicit and Implicit Proactive Dialogue Strategies for Conversational Recommendation". `LREC(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.lrec-1.54.pdf)
 9. "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Dataset]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
 10. **ConveRSE**: "Conversational Recommender Systems and natural language: A study through the ConveRSE framework". `Decision Support Systems(2020)` [[Link]](https://www.sciencedirect.com/science/article/pii/S0167923620300051) [[Dataset]](https://github.com/swapUniba/ConvRecSysDataset)
+
 11. "On Estimating the Training Cost of Conversational Recommendation Systems". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2011.05302.pdf)
 
 
@@ -146,4 +152,5 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 ## Thesis
 
 1. "Recommendation in Dialogue Systems". By [Yueming Sun](https://scholar.google.com/citations?user=UOYpBu4AAAAJ)(2019). [[PDF]](https://escholarship.org/content/qt4rs1s3ms/qt4rs1s3ms.pdf)
+
 2. "Advanced Method Towards Conversational Recommendation". By [Yisong Miao](https://yisong.me/)(2020). [[PDF]](https://yisong.me/publications/Yisong_master_thesis-final.pdf)
