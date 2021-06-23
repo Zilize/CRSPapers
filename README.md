@@ -133,7 +133,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 ## Other
 
-1. **CCPE**: "Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences". `SIGDial(2019)` [[PDF]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/54521b4011d0c2a19eaade8005ff4a499f754301.pdf) [[Dataset: CCPE]](https://github.com/google-research-datasets/ccpe)
+1. **CCPE**: "Coached Conversational Preference Elicitation: A Case Study in Understanding Movie Preferences". `SIGDial(2019)` [[PDF]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/54521b4011d0c2a19eaade8005ff4a499f754301.pdf) [[Dataset]](https://github.com/google-research-datasets/ccpe)
 2. "Leveraging Historical Interaction Data for Improving Conversational Recommender System". `CIKM(2020)` [[PDF]](https://arxiv.org/pdf/2008.08247.pdf) [[Code]](https://github.com/Lancelot39/Pre-CRS)
 3. "Evaluating Conversational Recommender Systems via User Simulation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2006.08732.pdf) [[Code]](https://github.com/iai-group/UserSimConvRec)
 4. "End-to-End Learning for Conversational Recommendation: A Long Way to Go?". `RecSys(2020)` [[PDF]](http://ceur-ws.org/Vol-2682/short1.pdf) [[Material]](https://drive.google.com/drive/folders/10gPOmaiFrZjIULIa3LsdmuyvJvnCV_Xq)
