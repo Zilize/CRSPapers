@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-66-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-67-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -85,8 +85,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 13. **MGConvRex**: "User Memory Reasoning for Conversational Recommendation". `ACL(2020)` [[PDF]](https://arxiv.org/pdf/2006.00184)
 14. **COOKIE**: "COOKIE: A Dataset for Conversational Recommendation over Knowledge Graphs in E-commerce". `arXiv(2020)` [[PDF]](https://arxiv.org/pdf/2008.09237) [[Homepage]](https://github.com/zuohuif/COOKIE)
 15. **IARD**: "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Homepage]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
-16. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf)
-17. **MMConv**: "MMConv: An Environment for Multimodal Conversational Search across Multiple Domains". `SIGIR(2021)` [[PDF]](https://liziliao.github.io/papers/2021sigir_mmconv.pdf)
+16. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Homepage]](https://github.com/liuzeming01/DuRecDial)
+17. **MMConv**: "MMConv: An Environment for Multimodal Conversational Search across Multiple Domains". `SIGIR(2021)` [[PDF]](https://liziliao.github.io/papers/2021sigir_mmconv.pdf) [[Homepage]](https://github.com/liziliao/MMConv)
 
 
 ## Model
