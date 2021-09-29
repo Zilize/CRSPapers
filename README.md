@@ -71,6 +71,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 ### Dataset
 
 1. **ConvRec**: "Conversational Recommender System". `SIGIR(2018)` [[PDF]](https://arxiv.org/pdf/1806.03277) [[Homepage]](https://github.com/ysun30/ConvRec)
+
 2. **SAUR**: "Towards Conversational Search and Recommendation: System Ask, User Respond". `CIKM(2018)` [[PDF]](https://par.nsf.gov/servlets/purl/10090082) [[Download]](http://yongfeng.me/attach/conversation.zip)
 3. **EAR**: "Estimation-Action-Reflection: Towards Deep Interaction Between Conversational and Recommender Systems". `WSDM(2020)` [[PDF]](https://arxiv.org/pdf/2002.09102) [[Homepage]](https://ear-conv-rec.github.io/)
 4. **CPR**: "Interactive Path Reasoning on Graph for Conversational Recommendation". `KDD(2020)` [[PDF]](https://arxiv.org/pdf/2007.00194) [[Homepage]](https://cpr-conv-rec.github.io/)
@@ -116,6 +117,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 > Compared to attribute-based CRSs, generation-based CRSs pay more attention to generate human-like responses in natural language.
 
 1. **ReDial**: "Towards Deep Conversational Recommendations". `NeurIPS(2018)` [[PDF]](https://arxiv.org/pdf/1812.07617) [[Code]](https://github.com/RaymondLi0/conversational-recommendations) [[Dataset]](https://redialdata.github.io/website/)
+
 2. **KBRD**: "Towards Knowledge-Based Recommender Dialog System". `EMNLP-IJCNLP(2019)` [[PDF]](https://arxiv.org/pdf/1908.05391.pdf) [[Code]](https://github.com/THUDM/KBRD)
 3. **GoRecDial**: "Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue". `EMNLP(2019)` [[PDF]](https://arxiv.org/pdf/1909.03922) [[Code]](https://github.com/facebookresearch/ParlAI) [[Dataset]](https://drive.google.com/drive/folders/1nilk6FUktW2VjNlATdM0VMehzSOPIvJ0?usp=sharing)
 4. **DialKG Walker**: "OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs". `ACL(2019)` [[PDF]](https://www.aclweb.org/anthology/P19-1081.pdf) [[Code]](https://github.com/madcpt/OpenDialKG) [[Dataset]](https://github.com/facebookresearch/opendialkg)
@@ -137,6 +139,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 ### Others
 
 1. **Converse-Et-Impera**: "Converse-Et-Impera: Exploiting Deep Learning and Hierarchical Reinforcement Learning for Conversational Recommender Systems". `AI*IA(2017)` [[PDF]](https://www.researchgate.net/profile/Alessandro-Suglia/publication/320875588_Converse-Et-Impera_Exploiting_Deep_Learning_and_Hierarchical_Reinforcement_Learning_for_Conversational_Recommender_Systems/links/5bf6ad1592851c6b27d27324/Converse-Et-Impera-Exploiting-Deep-Learning-and-Hierarchical-Reinforcement-Learning-for-Conversational-Recommender-Systems.pdf)
+
 2. "A Model of Social Explanations for a Conversational Movie Recommendation System". `HAI(2019)` [[PDF]](https://eprints.gla.ac.uk/193937/7/193937.pdf)
 3. "Dynamic Online Conversation Recommendation". `ACL(2020)` [[PDF]](https://www.aclweb.org/anthology/2020.acl-main.305.pdf) [[Code]](https://github.com/zxshamson/dy-conv-rec)
 4. **IAI MovieBot**: "IAI MovieBot: A Conversational Movie Recommender System". `CIKM(2020)` [[PDF]](https://arxiv.org/pdf/2009.03668.pdf) [[Code]](https://github.com/iai-group/moviebot)
