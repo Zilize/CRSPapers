@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-67-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-68-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -108,7 +108,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 10. **ConTS**: "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users". `TOIS(2021)` [[PDF]](https://arxiv.org/pdf/2005.12979) [[Code]](https://github.com/xiwenchao/conTS-TOIS-2021)
 11. **UNICORN**: "Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning". `SIGIR(2021)` [[PDF]](https://arxiv.org/pdf/2105.09710.pdf) [[Code]](https://github.com/dengyang17/unicorn)
 12. **KBQG**: "Learning to Ask Appropriate Questions in Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.04774.pdf) [[Code]](https://github.com/XuhuiRen/KBQG)
-13. "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)
+13. **FPAN**: "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791) [[Code]](https://github.com/xxkkrr/FPAN)
 
 14. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
 
@@ -135,6 +135,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
 17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
 18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
+19. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
 
 ### Others
 
