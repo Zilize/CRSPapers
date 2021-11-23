@@ -106,7 +106,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 8. **CRSAL**: "CRSAL: Conversational Recommender Systems with Adversarial Learning". `TOIS(2020)` [[PDF]](https://repository.kaust.edu.sa/bitstream/handle/10754/665725/TOIS.pdf?sequence=1&isAllowed=y) [[Code]](https://github.com/XuhuiRen/CRSAL)
 9. **Qrec**: "Towards Question-Based Recommender Systems". `SIGIR(2020)` [[PDF]](https://arxiv.org/pdf/2005.14255.pdf) [[Code]](https://github.com/JieZouIR/Qrec)
 10. **ConTS**: "Seamlessly Unifying Attributes and Items: Conversational Recommendation for Cold-Start Users". `TOIS(2021)` [[PDF]](https://arxiv.org/pdf/2005.12979) [[Code]](https://github.com/xiwenchao/conTS-TOIS-2021)
-11. **UNICORN**: "Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning". `SIGIR(2021)` [[PDF]](https://arxiv.org/pdf/2105.09710.pdf)
+11. **UNICORN**: "Unified Conversational Recommendation Policy Learning via Graph-based Reinforcement Learning". `SIGIR(2021)` [[PDF]](https://arxiv.org/pdf/2105.09710.pdf) [[Code]](https://github.com/dengyang17/unicorn)
 12. **KBQG**: "Learning to Ask Appropriate Questions in Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.04774.pdf) [[Code]](https://github.com/XuhuiRen/KBQG)
 13. "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791)
 
