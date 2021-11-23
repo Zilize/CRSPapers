@@ -133,8 +133,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 14. **RevCore**: "RevCore: Review-augmented Conversational Recommendation". `ACL-Findings(2021)` [[PDF]](https://arxiv.org/pdf/2106.00957.pdf) [[Code]](https://github.com/JD-AI-Research-NLP/RevCore)
 15. **KECRS**: "KECRS: Towards Knowledge-Enriched Conversational Recommendation System". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2105.08261.pdf)
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
-17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf)
-18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf)
+17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
+18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
 
 ### Others
 
