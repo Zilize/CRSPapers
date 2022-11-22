@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-75-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-84-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -88,6 +88,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 15. **IARD**: "Predicting User Intents and Satisfaction with Dialogue-based Conversational Recommendations". `UMAP(2020)` [[PDF]](http://www.comp.hkbu.edu.hk/~lichen/download/Cai_UMAP20.pdf) [[Homepage]](https://wanlingcai.github.io/files/2020/UMAP2020_dataset_readme.html)
 16. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Homepage]](https://github.com/liuzeming01/DuRecDial)
 17. **MMConv**: "MMConv: An Environment for Multimodal Conversational Search across Multiple Domains". `SIGIR(2021)` [[PDF]](https://liziliao.github.io/papers/2021sigir_mmconv.pdf) [[Homepage]](https://github.com/liziliao/MMConv)
+18. **INSPIRED2**: "INSPIRED2: An Improved Dataset for Sociable Conversational Recommendation." `RecSys(2022)` [[PDF]](https://arxiv.org/pdf/2208.04104.pdf) [[Homepage]](https://github.com/ahtsham58/INSPIRED2)
 
 
 ## Model
@@ -112,6 +113,9 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 
 14. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
 15. **MCMIPL**: "Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation." `WWW(2022)` [[PDF]](https://arxiv.org/pdf/2112.11775.pdf) [[Code]](https://github.com/ZYM6-6/MCMIPL)
+16. "Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems." `CIKM(2022)` [[PDF]](https://arxiv.org/pdf/2208.03298.pdf)
+17. **MINICORN**: "Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2206.14468.pdf)
+18. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
 
 ### Generation-based
 
@@ -143,7 +147,11 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 23. **BARCOR**: "BARCOR: Towards A Unified Framework for Conversational Recommendation Systems." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2203.14257.pdf)
 24. **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems." `TOIS(2023)` [[PDF]](https://arxiv.org/pdf/2204.06923.pdf) [[Code]](https://github.com/dengyang17/unimind)
 25. **UCCR**: "User-Centric Conversational Recommendation with Multi-Aspect User Modeling." `SIGIR(2022)` [[PDF]](https://arxiv.org/pdf/2204.09263.pdf) [[Code]](https://github.com/lisk123/UCCR)
-
+26. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
+27. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
+28. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
+29. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
+30. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
 
 
 ### Others
