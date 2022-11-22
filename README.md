@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-84-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-85-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -140,18 +140,19 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 16. "Category Aware Explainable Conversational Recommendation". `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2103.08733.pdf)
 17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
 18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
-19. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
-20. **RecInDial**: "RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models." `AACL(2022)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
-21. **MESE**: "Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta Information." `NAACL(2022)` [[PDF]](https://arxiv.org/pdf/2112.08140.pdf) [[Code]](https://github.com/by2299/MESE)
-22. **C2-CRS**: "C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System." `WSDM(2022)` [[PDF]](https://arxiv.org/pdf/2201.02732.pdf) [[Code]](https://github.com/RUCAIBox/WSDM2022-C2CRS)
-23. **BARCOR**: "BARCOR: Towards A Unified Framework for Conversational Recommendation Systems." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2203.14257.pdf)
-24. **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems." `TOIS(2023)` [[PDF]](https://arxiv.org/pdf/2204.06923.pdf) [[Code]](https://github.com/dengyang17/unimind)
-25. **UCCR**: "User-Centric Conversational Recommendation with Multi-Aspect User Modeling." `SIGIR(2022)` [[PDF]](https://arxiv.org/pdf/2204.09263.pdf) [[Code]](https://github.com/lisk123/UCCR)
-26. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
-27. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
-28. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
-29. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
-30. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
+19. **CRFR**: "CRFR: Improving Conversational Recommender Systems via Flexible Fragments Reasoning on Knowledge Graphs." `EMNLP(2021)` [[PDF]](https://aclanthology.org/2021.emnlp-main.355.pdf)
+20. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+21. **RecInDial**: "RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models." `AACL(2022)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+22. **MESE**: "Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta Information." `NAACL(2022)` [[PDF]](https://arxiv.org/pdf/2112.08140.pdf) [[Code]](https://github.com/by2299/MESE)
+23. **C2-CRS**: "C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System." `WSDM(2022)` [[PDF]](https://arxiv.org/pdf/2201.02732.pdf) [[Code]](https://github.com/RUCAIBox/WSDM2022-C2CRS)
+24. **BARCOR**: "BARCOR: Towards A Unified Framework for Conversational Recommendation Systems." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2203.14257.pdf)
+25. **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems." `TOIS(2023)` [[PDF]](https://arxiv.org/pdf/2204.06923.pdf) [[Code]](https://github.com/dengyang17/unimind)
+26. **UCCR**: "User-Centric Conversational Recommendation with Multi-Aspect User Modeling." `SIGIR(2022)` [[PDF]](https://arxiv.org/pdf/2204.09263.pdf) [[Code]](https://github.com/lisk123/UCCR)
+27. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
+28. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
+29. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
+30. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
+31. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
 
 
 ### Others
