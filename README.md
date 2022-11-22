@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-68-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-72-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -111,6 +111,7 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 13. **FPAN**: "Adapting User Preference to Online Feedback in Multi-round Conversational Recommendation". `WSDM(2021)` [[Link]](https://dl.acm.org/doi/abs/10.1145/3437963.3441791) [[Code]](https://github.com/xxkkrr/FPAN)
 
 14. "Developing a Conversational Recommendation System for Navigating Limited Options". `CHI(2021)` [[PDF]](https://arxiv.org/pdf/2104.06552.pdf)
+15. **MCMIPL**: "Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation." `WWW(2022)` [[PDF]](https://arxiv.org/pdf/2112.11775.pdf) [[Code]](https://github.com/ZYM6-6/MCMIPL)
 
 ### Generation-based
 
@@ -136,6 +137,10 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 17. **DuRecDial 2.0**: "DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation". `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.08877.pdf) [[Dataset]](https://github.com/liuzeming01/DuRecDial)
 18. **NTRD**: "Learning Neural Templates for Recommender Dialogue System." `EMNLP(2021)` [[PDF]](https://arxiv.org/pdf/2109.12302.pdf) [[Code]](https://github.com/jokieleung/NTRD)
 19. **RID**: "Finetuning Large-Scale Pre-trained Language Models for Conversational Recommendation with Knowledge Graph." `arXiv(2021)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+20. **RecInDial**: "RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models." `AACL(2022)` [[PDF]](https://arxiv.org/pdf/2110.07477.pdf) [[Code]](https://github.com/Lingzhi-WANG/PLM-BasedCRS)
+21. **MESE**: "Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta Information." `NAACL(2022)` [[PDF]](https://arxiv.org/pdf/2112.08140.pdf) [[Code]](https://github.com/by2299/MESE)
+22. **C2-CRS**: "C2-CRS: Coarse-to-Fine Contrastive Learning for Conversational Recommender System." `WSDM(2022)` [[PDF]](https://arxiv.org/pdf/2201.02732.pdf) [[Code]](https://github.com/RUCAIBox/WSDM2022-C2CRS)
+23. 
 
 ### Others
 
