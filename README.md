@@ -1,4 +1,4 @@
-[# CRS Papers
+# CRS Papers
 
 ![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-89-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
