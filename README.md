@@ -198,4 +198,3 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 1. "Recommendation in Dialogue Systems". By [Yueming Sun](https://scholar.google.com/citations?user=UOYpBu4AAAAJ)(2019). [[PDF]](https://escholarship.org/content/qt4rs1s3ms/qt4rs1s3ms.pdf)
 
 2. "Advanced Method Towards Conversational Recommendation". By [Yisong Miao](https://yisong.me/)(2020). [[PDF]](https://yisong.me/publications/Yisong_master_thesis-final.pdf)
-](https://dl.acm.org/doi/abs/10.1145/3477495.3531830)
