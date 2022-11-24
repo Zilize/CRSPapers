@@ -1,6 +1,6 @@
-# CRS Papers
+[# CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-87-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-89-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -116,7 +116,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 16. "Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems." `CIKM(2022)` [[PDF]](https://arxiv.org/pdf/2208.03298.pdf)
 17. **MINICORN**: "Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2206.14468.pdf)
 18. **CRIF**: "Learning to Infer User Implicit Preference in Conversational Recommendation." `SIGIR(2022)` [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531844)
-19. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
+19. **HICR**: "Conversational Recommendation via Hierarchical Information Modeling." `SIGIR(2022)` [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531830)
+20. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
 
 ### Generation-based
 
@@ -150,11 +151,12 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 25. **UniMIND**: "A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems." `TOIS(2023)` [[PDF]](https://arxiv.org/pdf/2204.06923.pdf) [[Code]](https://github.com/dengyang17/unimind)
 26. **UCCR**: "User-Centric Conversational Recommendation with Multi-Aspect User Modeling." `SIGIR(2022)` [[PDF]](https://arxiv.org/pdf/2204.09263.pdf) [[Code]](https://github.com/lisk123/UCCR)
 27. **UPCR**: "Variational Reasoning about User Preferences for Conversational Recommendation." `SIGIR(2022)` [[PDF]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/ren-2022-variational.pdf) [[Code]](https://github.com/tianz2020/UPCR)
-28. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
-29. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
-30. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
-31. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
-32. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
+28. **TSCR**: "Improving Conversational Recommender Systems via Transformer-based Sequential Modelling." `SIGIR(2022)` [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531852)
+29. **CCRS**: "Customized Conversational Recommender Systems." `ECML-PKDD(2022)` [[PDF]](https://arxiv.org/pdf/2207.00814.pdf)
+30. **UniCRS**: "Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning." `KDD(2022)` [[PDF]](https://arxiv.org/pdf/2206.09363.pdf) [[Code]](https://github.com/RUCAIBox/UniCRS)
+31. **EGCR**: "EGCR: Explanation Generation for Conversational Recommendation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2208.08035.pdf)
+32. "Improving Conversational Recommender System via Contextual and Time-Aware Modeling with Less Domain-Specific Knowledge." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2209.11386.pdf)
+33. **DICR**: "Aligning Recommendation and Conversation via Dual Imitation." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2211.02848.pdf)
 
 
 ### Others
@@ -196,3 +198,4 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 1. "Recommendation in Dialogue Systems". By [Yueming Sun](https://scholar.google.com/citations?user=UOYpBu4AAAAJ)(2019). [[PDF]](https://escholarship.org/content/qt4rs1s3ms/qt4rs1s3ms.pdf)
 
 2. "Advanced Method Towards Conversational Recommendation". By [Yisong Miao](https://yisong.me/)(2020). [[PDF]](https://yisong.me/publications/Yisong_master_thesis-final.pdf)
+](https://dl.acm.org/doi/abs/10.1145/3477495.3531830)
