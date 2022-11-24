@@ -1,6 +1,6 @@
 # CRS Papers
 
-![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-85-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
+![](https://img.shields.io/github/last-commit/Zilize/CRSPapers?color=blue) ![](https://img.shields.io/badge/PaperNumber-86-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](https://arxiv.org/pdf/2101.09459.pdf) as following:
 
@@ -115,7 +115,8 @@ A Conversational Recommender System (CRS) is defined by [Gao et al. (2021)](http
 15. **MCMIPL**: "Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation." `WWW(2022)` [[PDF]](https://arxiv.org/pdf/2112.11775.pdf) [[Code]](https://github.com/ZYM6-6/MCMIPL)
 16. "Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems." `CIKM(2022)` [[PDF]](https://arxiv.org/pdf/2208.03298.pdf)
 17. **MINICORN**: "Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference." `arXiv(2022)` [[PDF]](https://arxiv.org/pdf/2206.14468.pdf)
-18. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
+18. **CRIF**: "Learning to Infer User Implicit Preference in Conversational Recommendation." `SIGIR(2022)` [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531844)
+19. **MetaCRS**: "Meta Policy Learning for Cold-Start Conversational Recommendation." `WSDM(2023)` [[PDF]](https://arxiv.org/pdf/2205.11788.pdf)
 
 ### Generation-based
 
